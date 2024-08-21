@@ -1,10 +1,12 @@
-- 👋 Oi, sou @ray022
-- 👀 I’m interested in trabalhar...
-- 🌱 I’m currently learning mecanica Industrial...
-- 💞️ I’m looking to collaborate on ajudar...
-- 📫 How to reach me pelo meu email
-
-<!---
-ray022/ray022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meu Site de Xadrez</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="chessboard"></div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chessboard.js/1.0.0/chessboard.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
